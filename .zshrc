@@ -1,0 +1,1 @@
+/Users/vermah/.zshrc
